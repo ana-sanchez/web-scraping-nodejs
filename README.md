@@ -1,12 +1,24 @@
-# web-scraping-nodejs
-Iniciación al web scraping
-
-RETO: A través de una lista de los físicos ms relevantes de la historia extraemos los datos de la edad y el año del fallecimiento y así elaboraremos un informe sobre quien vivó más, menos y los ordenaremos de manera descendente. 
-
-A través de este sistema accederemos a cada una de las páginas de wikipedia. 
+# Iniciación al web scraping 🤟
 
 
-Hemos usado:
- *Nodejs
- *Cheerio
- *Axios
+## Reto 👇
+
+Queremos saber la edad en la que murieron los físicos más relevantes de la historia. ¿Cómo? A través del web-scraping encontramos sus páginas en Wikipedia, extraemos los datos y elaboramos un informe sobre quién vivió más y los ordenamos de manera descendente.
+
+### Necesitarás 📋
+
+```
+npm install node 
+```
+
+```
+npm install cheerios 
+```
+
+```
+npm install axios 
+```
+
+### Construido con 🛠️
+
+ * [Node.js®](https://nodejs.org/es/) - Entorno de ejecución para JavaScript
